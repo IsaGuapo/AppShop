@@ -8,7 +8,7 @@
     {
         "name": "Espuma cómoda para arnés CANYON CLUB",
         "price": "12.49 €",
-        "rating": "3.5",
+        "rating": "4.5",
         "img_url": "https://www.trekkinn.com/f/13740/137403162/petzl-comfort-foam-for-canyon-club.jpg"
     },
     {
@@ -32,7 +32,7 @@
     {
         "nombre": "Petzl Large Rope Tarp",
         "price": "11.99 €",
-        "rating": "3",
+        "rating": "4.8",
         "img_url": "https://www.trekkinn.com/f/13794/137944963/petzl-large-rope-tarp.jpg"
     },
     {
@@ -178,5 +178,24 @@
         "price": "105.99 €",
         "rating": "4.8",
         "img_url": "https://www.trekkinn.com/f/13771/137716399/ternua-forro-polar-skrum.jpg"
-    }
+    },
+    {
+        "name": "La Sportiva Pies De Gato Tarantula",
+        "price": "71.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/13635/136356822/la-sportiva-pies-de-gato-tarantula.jpg"
+    },
+    {
+        "name": "La Sportiva Pies De Gato Otaki",
+        "price": "70.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/13644/136444943/boreal-pies-de-gato-joker.jpg"
+    },
+    {
+        "name": "La Sportiva Pies De Gato Mythos",
+        "price": "98.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/5/56685/la-sportiva-pies-de-gato-mythos.jpg"
+    },
+
 ]

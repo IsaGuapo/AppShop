@@ -27,7 +27,7 @@ app.get('/api/products/fab/:fab', productsControllers.getOneProductByFab);
 //create product
 app.post('/api/products', productsControllers.createProduct);
 //UPDATE one product by id
-app.get('/api/products/:id', productsControllers.updateProduct);
+app.patch('/api/products/:id', productsControllers.updateProduct);
 //DELETE one product by id
  app.delete('/api/products/:id' , productsControllers.deleteproduct);
 
