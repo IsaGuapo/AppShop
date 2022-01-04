@@ -1,14 +1,14 @@
 {
   "name": "app_shop",
   "version": "1.0.0",
-  "description": "",
+  "description": "app fake store with MERN",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Isa Guapo",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
