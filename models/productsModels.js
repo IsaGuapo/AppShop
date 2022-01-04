@@ -1,28 +1,32 @@
-// const mongoose = require('mongoose');
-// const Schema = mongoose.Schema;
-// const fab = mongoose.model('fab');
+//MODULES
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+const Fab = mongoose.model('./models/fabModels');
+
+//SCHEMA DE MONGOOSE
+const productSchema = new Schema({
+    name: {
+        type: String,
+        required: [true, 'Debe rellenar el campo nombre']
+    },
+    price: {
+        type: Number,
+        required: [true, 'Debe rellenar el precio']
+    },
+    rating: {
+        type: Number,
+        required: true
+    },
+    img_url: {
+        type: String,
+        required: true
+    },
+    fab: {
+        type: Schema.ObjetId,
+        ref: "Fab"
+    },
+});
 
 
-// const productSchema = new Schema ({
-    
-//     nombre: { 
-//         type: String, 
-//         required: true 
-//     },
-//     precio: { 
-//         type: Number, 
-//         required: true 
-//     },
-//     relevancia: { 
-//         type: Number, 
-//         required: true 
-//     },
-//     img_url: { 
-//         type: String, 
-//         required: true 
-//     },
-//     type: { type: Schema.ObjetId, fer: "fab"},
-
-// });
-
-// module.exports = mongoose.model ("products",productSchema )
+//Export del modelo mongoose
+module.exports = mongoose.model("products", productSchema)

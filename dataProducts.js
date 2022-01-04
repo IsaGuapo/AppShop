@@ -1,182 +1,182 @@
 [
     {
-        "nombre": "Eslinga cortada para el arnés CANYON GUIDE",
-        "precio": "4.99 €",
-        "relevancia": "4.2",
-        "img_url": "https://www.trekkinn.com/montana/petzl-cutaway-sling-for-canyon-guide/137403161/p"
+        "name": "Eslinga cortada para el arnés CANYON GUIDE",
+        "price": "4.99 €",
+        "rating": "4.2",
+        "img_url": "https://www.trekkinn.com/f/13740/137403161/petzl-cutaway-sling-for-canyon-guide.jpg"
     },
     {
-        "nombre": "Espuma cómoda para arnés CANYON CLUB",
-        "precio": "12.49 €",
-        "relevancia": "3.5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-comfort-foam-for-canyon-club/137403162/p"
+        "name": "Espuma cómoda para arnés CANYON CLUB",
+        "price": "12.49 €",
+        "rating": "3.5",
+        "img_url": "https://www.trekkinn.com/f/13740/137403162/petzl-comfort-foam-for-canyon-club.jpg"
     },
     {
-        "nombre": "Singing Rock Mallon Big Twist 8 mm",
-        "precio": "12.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/singing-rock-mallon-big-twist-8-mm/137536408/p"
+        "name": "Singing Rock Mallon Big Twist 8 mm",
+        "price": "12.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13753/137536408/singing-rock-mallon-big-twist-8-mm.jpg"
     },
     {
-        "nombre": "Petzl Cuerda Volta Guide 9 mm",
-        "precio": "291.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-cuerda-volta-guide-9-mm/138243565/p"
+        "name": "Petzl Cuerda Volta Guide 9 mm",
+        "price": "291.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13824/138243565/petzl-cuerda-volta-guide-9-mm.jpg"
     },
     {
-        "nombre": "Petzl Luz Frontal Iko",
-        "precio": "45.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-luz-frontal-iko/137944966/p"
+        "name": "Petzl Luz Frontal Iko",
+        "price": "45.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13794/137944966/petzl-luz-frontal-iko.jpg"
     },
     {
         "nombre": "Petzl Large Rope Tarp",
-        "precio": "11.99 €",
-        "relevancia": "3",
-        "img_url": "https://www.trekkinn.com/montana/petzl-large-rope-tarp/137944963/p"
+        "price": "11.99 €",
+        "rating": "3",
+        "img_url": "https://www.trekkinn.com/f/13794/137944963/petzl-large-rope-tarp.jpg"
     },
     {
-        "nombre": "Petzl Mosquetón GO 8 mm",
-        "precio": "4.99 €",
-        "relevancia": "4.8",
-        "img_url": "https://www.trekkinn.com/montana/petzl-mosqueton-go-8-mm/137944955/p"
+        "name": "Petzl Mosquetón GO 8 mm",
+        "price": "4.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/13794/137944955/petzl-mosqueton-go-8-mm.jpg"
     },
     {
-        "nombre": "Petzl Kit Via Ferata Vertigo",
-        "precio": "145.99 €",
-        "relevancia": "4.6",
-        "img_url": "https://www.trekkinn.com/montana/petzl-kit-via-ferata-vertigo/137944944/p"
+        "name": "Petzl Kit Via Ferata Vertigo",
+        "price": "145.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13794/137944944/petzl-kit-via-ferata-vertigo.jpg"
     },
     {
-        "nombre": "Petzl Corax Grigri",
-        "precio": "291.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-corax-grigri/137944942/p"
+        "name": "Petzl Corax Grigri",
+        "price": "291.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13794/137944942/petzl-corax-grigri.jpg"
     },
     {
         "nombre": "Petzl Rad System Kit",
-        "precio": "232.99 €",
-        "relevancia": "3.9",
-        "img_url": "https://www.trekkinn.com/montana/petzl-rad-system-kit/137944945/p"
+        "price": "232.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13794/137944945/petzl-rad-system-kit.jpg"
     },
     {
         "nombre": "Petzl Cuerda Volta Guide 9 mm",
-        "precio": "291.99 €",
-        "relevancia": "4",
-        "img_url": "https://www.trekkinn.com/montana/petzl-cuerda-volta-guide-9-mm/138243565/p"
+        "price": "291.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13824/138243565/petzl-cuerda-volta-guide-9-mm.jpg"
     },
     {
-        "nombre": "Petzl Casco Meteor",
-        "precio": "62.49 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-casco-meteor/137053791/p"
+        "name": "Petzl Casco Meteor",
+        "price": "62.49 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13705/137053791/petzl-casco-meteor.jpg"
     },
     {
-        "nombre": "Petzl Grigri +",
-        "precio": "84.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-grigri--/136215801/p"
+        "name": "Petzl Grigri +",
+        "price": "84.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13621/136215801/petzl-grigri--.jpg"
     },
     {
-        "nombre": "Petzl Cinta ST Anneau",
-        "precio": "9.49 €",
-        "relevancia": "4.6",
-        "img_url": "https://www.trekkinn.com/montana/petzl-cinta-st-anneau/570842/p"
+        "name": "Petzl Cinta ST Anneau",
+        "price": "9.49 €",
+        "rating": "4.6",
+        "img_url": "https://www.trekkinn.com/f/57/570842/petzl-cinta-st-anneau.jpg"
     },
     {
-        "nombre": "Ternua Chaqueta Kars",
-        "precio": "161.99 €",
-        "relevancia": "4.6",
-        "img_url": "https://www.trekkinn.com/montana/ternua-chaqueta-kars/138300210/p"
+        "name": "Ternua Chaqueta Kars",
+        "price": "161.99 €",
+        "rating": "4.6",
+        "img_url": "https://www.trekkinn.com/f/13830/138300210/ternua-chaqueta-kars.jpg"
     },
     {
-        "nombre": "Ternua Rotor",
-        "precio": "85.99 €",
-        "relevancia": "4.5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-rotor/138073958/p"
+        "name": "Ternua Rotor",
+        "price": "85.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13807/138073958/ternua-rotor.jpg"
     },
     {
-        "nombre": "Ternua Forro Polar Con Capucha Rakker",
-        "precio": "71.99 €",
-        "relevancia": "4.3",
-        "img_url": "https://www.trekkinn.com/montana/ternua-forro-polar-con-capucha-rakker/138032873/p"
+        "name": "Ternua Forro Polar Con Capucha Rakker",
+        "price": "71.99 €",
+        "rating": "4.5",
+        "img_url": "https://www.trekkinn.com/f/13803/138032873/ternua-forro-polar-con-capucha-rakker.jpg"
     },
     {
-        "nombre": "Ternua Sudadera Con Capucha Veldar",
-        "precio": "42.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-veldar/138032826/p"
+        "name": "Ternua Sudadera Con Capucha Veldar",
+        "price": "42.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13803/138032826/ternua-veldar.jpg"
     },
     {
-        "nombre": "Ternua Chaqueta Kimo Lite",
-        "precio": "114.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/petzl-cuerda-volta-guide-9-mm/138243565/p"
+        "name": "Ternua Chaqueta Kimo Lite",
+        "price": "114.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13803/138032777/ternua-chaqueta-kimo-lite.jpg"
     },
     {
-        "nombre": "Ternua Camiseta Manga Corta Krin",
-        "precio": "42.99 €",
-        "relevancia": "4.5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-camiseta-manga-corta-krin/138032753/p"
+        "name": "Ternua Camiseta Manga Corta Krin",
+        "price": "42.99 €",
+        "rating": "4.5",
+        "img_url": "https://www.trekkinn.com/f/13803/138032753/ternua-camiseta-manga-corta-krin.jpg"
     },
     {
         "nombre": "Ternua Veldar",
-        "precio": "291.99 €",
-        "relevancia": "4",
+        "price": "291.99 €",
+        "rating": "4",
         "img_url": "https://www.trekkinn.com/montana/ternua-veldar/138032826/p"
     },
     {
-        "nombre": "Ternua Vilnu",
-        "precio": "57.99 €",
-        "relevancia": "4",
-        "img_url": "https://www.trekkinn.com/montana/ternua-vilnu/138032685/p"
+        "nombre": "Ternua Chaleco Kuantum",
+        "price": "88.49 €",
+        "rating": "4.5",
+        "img_url": "https://www.trekkinn.com/f/13771/137716180/ternua-chaleco-kuantum.jpg"
     },
     {
-        "nombre": "Ternua Corno",
-        "precio": "69.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-corno/137716075/p"
+        "name": "Ternua Corno",
+        "price": "69.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13771/137716075/ternua-corno.jpg"
     },
     {
-        "nombre": "Ternua Camiseta Interior Mode",
-        "precio": "42.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-camiseta-interior-mode/136551373/p"
+        "name": "Ternua Camiseta Interior Mode",
+        "price": "42.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13655/136551373/ternua-camiseta-interior-mode.jpg"
     },
     {
-        "nombre": "Ternua Mallas Mode",
-        "precio": "42.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-mallas-mode/137716145/p"
+        "name": "Ternua Mallas Mode",
+        "price": "42.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13771/137716145/ternua-mallas-mode.jpg"
     },
     {
-        "nombre": "Ternua Forro Polar Con Capucha Rakker",
-        "precio": "71.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-forro-polar-con-capucha-rakker/137716406/p"
-    },
-    {
-        "nombre": "Ternua Chaqueta Sakketa",
-        "precio": "91.49 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-chaqueta-sakketa/138300378/p"
+        "name": "Ternua Forro Polar Con Capucha Rakker",
+        "price": "71.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13771/137716406/ternua-forro-polar-con-capucha-rakker.jpg"
     },
     {
         "nombre": "Ternua Chaqueta Sakketa",
-        "precio": "90.99 €",
-        "relevancia": "4",
-        "img_url": "https://www.trekkinn.com/montana/ternua-chaqueta-sakketa/138300379/p"
+        "price": "91.49 €",
+        "rating": "4.5",
+        "img_url": "https://www.trekkinn.com/f/13830/138300378/ternua-chaqueta-sakketa.jpg"
     },
     {
-        "nombre": "Ternua Chaqueta Sankara",
-        "precio": "111.99 €",
-        "relevancia": "4.5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-chaqueta-sankara/138300381/p"
+        "nombre": "Ternua Chaqueta Sakketa",
+        "price": "90.99 €",
+        "rating": "5",
+        "img_url": "https://www.trekkinn.com/f/13830/138300379/ternua-chaqueta-sakketa.jpg"
     },
     {
-        "nombre": "Ternua Forro Polar Skrum",
-        "precio": "105.99 €",
-        "relevancia": "5",
-        "img_url": "https://www.trekkinn.com/montana/ternua-forro-polar-skrum/137716399/p"
+        "name": "Ternua Chaqueta Sankara",
+        "price": "111.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/13830/138300381/ternua-chaqueta-sankara.jpg"
+    },
+    {
+        "name": "Ternua Forro Polar Skrum",
+        "price": "105.99 €",
+        "rating": "4.8",
+        "img_url": "https://www.trekkinn.com/f/13771/137716399/ternua-forro-polar-skrum.jpg"
     }
 ]
