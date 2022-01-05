@@ -1,7 +1,7 @@
 // modules
 const express = require('express');
 const app = express();
-const productsControllers =  require('./controllers/productsControllers');
+const productRouter = require ('./routes/productRoutes');
 
 //llamada a BBDD
 const mongoose = require('mongoose');
@@ -18,19 +18,7 @@ app.use(express.urlencoded({ extended: false }));
 
 
 // ROUTES
-//get all products route
-app.get('/api/products', productsControllers.getAllProducts);
-//get one product by name
-app.get('/api/products/name/:name' , productsControllers.getOneProductByName );
-//get one product by fab
-app.get('/api/products/fab/:fab', productsControllers.getOneProductByFab);
-//create product
-app.post('/api/products', productsControllers.createProduct);
-//UPDATE one product by id
-app.patch('/api/products/:id', productsControllers.updateProduct);
-//DELETE one product by id
- app.delete('/api/products/:id' , productsControllers.deleteproduct);
-
+app.use('/api/products', productRouter);
 
  
 //Conexion con la bbdd de MongoDb
