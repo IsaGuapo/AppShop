@@ -1,18 +1,18 @@
-// modules
+// MODULES
 const express = require('express');
 const app = express();
 const productRouter = require ('./routes/productRoutes');
 
 //llamada a BBDD
 const mongoose = require('mongoose');
-//configuracion de dotenv y fihcero .env para que reconozca mi app donde esta mi url coneect de MongoDb
+//configuracion de dotenv y fichero .env para que reconozca mi app donde esta mi url de MongoDb
 const dotenv = require('dotenv');
 dotenv.config({ path: './.env' });
 
 
 
 // MIDDLEWARES
-// (Estos dos se usan en lugar de 'body-parser' que ya está deprecated. Sólo actúan en POST y PUT requests. Son necesarios para capturar el body)
+// (Estos dos se usan en lugar de 'body-parser' que ya están deprecated. Sólo actúan en POST y PUT requests. Son necesarios para capturar el body)
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
