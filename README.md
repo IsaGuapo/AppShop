@@ -1,2 +1,2 @@
 # AppShop
-App tienda online parte Back
+Demo App with Back using MongoDb to bbdd and Front with React
